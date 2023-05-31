@@ -1,16 +1,24 @@
-# travelling_app
+# Flutter Traveling App Example
 
-A new Flutter project.
+## Screenshots
 
-## Getting Started
+### Welcome Page
+<img src="assets/screenshots/welcome-page.png" />
 
-This project is a starting point for a Flutter application.
+### Home Page
+<img src="assets/screenshots/home-page.png" />
 
-A few resources to get you started if this is your first Flutter project:
+### Recommandation Page
+<img src="assets/screenshots/recommandation-page.png" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Home Page
+<img src="assets/screenshots/home-page2.png" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Source
+
+### Tutorial Video
+[Youtube](https://www.youtube.com/watch?v=FIX1eQYyzbA)
+
+### Designer
+[Dribble](https://dribbble.com/shots/20018215-Healing-Traveling-Mobile-App)
